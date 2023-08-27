@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc99d76fcb5a28c9",
+        "id": "3646a29e5c476a50",
         "type": "tabs",
         "children": [
           {
-            "id": "7892d67dfaa073a2",
+            "id": "a19c4be007dfec4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prime Factorization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prime Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prime Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prime Factorization.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7892d67dfaa073a2",
+  "active": "a19c4be007dfec4e",
   "lastOpenFiles": [
-    "Fundamental Theorem of Arithmetic.md",
+    "contents/Number Theory.md",
+    "Loop through all factors.md",
+    "Density of Primes.md",
+    "Factors.md",
+    "Product of factors.md",
+    "Sum of factors.md",
+    "Number of factors.md",
+    "Algorithms for Prime Factorization.md",
     "Prime Factorization.md",
+    "Fundamental Theorem of Arithmetic.md",
+    "contents",
+    "Smallest Prime Factor.md",
     "problems",
     "concepts"
   ]
