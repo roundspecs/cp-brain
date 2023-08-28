@@ -1,3 +1,16 @@
+# Divisibility
+## Definition
+$$a\mid b \iff \exists k\in \mathbb{Z},ak=b$$
+## Identities
+- Transitive:
+  $(a\mid b) \land (b\mid c) \implies a\mid c$
+- If $a$ divides sum of two integers, then $a$ divides both or none of the integers
+  $(a\mid (b+c)) \land (a\mid b) \implies a\mid c$
+- $a\mid b\implies a\mid kb$
+- $(a\mid b)\land (a\mid c)\implies a\mid(b\pm c)$
+- $(a\mid b)\land (a\mid c)\implies a\mid(b\times c)$
+### Corollaries
+- $(a\mid b)\land (a\mid c)\implies a\mid(k_1b+ k_2c)$
 # Primes
 ## Definitions
 |Term      |# of distinct factors |

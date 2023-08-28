@@ -3,7 +3,7 @@
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-catppuccin-light",
-  "darkScheme": "minimal-things-dark",
+  "darkScheme": "minimal-default-dark",
   "editorFont": "ubuntu mono",
   "lineHeight": 1.5,
   "lineWidth": 40,
